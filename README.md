@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nothing :(**
 
-- 🌱 I’m currently learning **C, JAVA**
+- 🌱 I’m currently learning **CPP, JAVA**
 
 - ⚡ Fun fact **I use GNU/Linux and I'm super cute**
 
